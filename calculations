@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+<style>
+
+</style>
+</head>
+<body>
+<input type="text" id="visor">
+</br></br>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+</br></br>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+</br></br>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+<button class="botao" onclick="adicionar('')"></button>
+</body>
+</html>
